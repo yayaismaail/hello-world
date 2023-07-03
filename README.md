@@ -63,7 +63,7 @@ Demonstrate an ability to submit a project for code review.
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://yayaismaail.github.io/hello-world)
+- [Live Demo Link](Coming soon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
